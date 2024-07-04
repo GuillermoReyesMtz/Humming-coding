@@ -1,0 +1,1 @@
+This was the final project of the Discrete Mathematics course. We used Huffman's codification algorithm of frecuencies to encode a txt file, then using a C++ script we mess up the codification, to fix it Humming's algorithm was succesfully implemented. More detailed information in the project pdf.
